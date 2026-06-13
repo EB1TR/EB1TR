@@ -1,6 +1,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=calm">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=EB1TR)](https://git.io/streak-stats)
+
 - 👋 Hi, I’m @EB1TR
 - 👀 I’m interested in #HamRadio, #Electronics, #Industry and #IIoT
 - 🌱 I'm currently learning #Python, #Docker, #Microservices and everything that I need...
