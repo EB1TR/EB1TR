@@ -1,6 +1,3 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=calm">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=EB1TR&theme=dracula&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @EB1TR
