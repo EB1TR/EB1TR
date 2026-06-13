@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=EB1TR&theme=dracula&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EB1TR&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 👋 Hi, I’m @EB1TR
 - 👀 I’m interested in #HamRadio, #Electronics, #Industry and #IIoT
