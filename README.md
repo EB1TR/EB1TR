@@ -1,50 +1,52 @@
 
-# Hi there! I'm Fabian 👋
+# Fabian | EB1TR
 
-### 📡 Amateur Radio Operator | Electronics | Software & Industrial Technology
+**Amateur Radio · Electronics · Software Development · Industrial Automation**
 
-I'm **EB1TR**, an amateur radio operator from Spain, passionate about technology, electronics, communications and software development.
+Based in Spain, with a background in industrial technology, instrumentation, automation and technical systems.
 
-I enjoy experimenting, building and integrating hardware and software solutions, both for amateur radio and industrial applications.
+Amateur radio operator with a strong interest in radio communications, electronics, software development and the integration of hardware and software technologies.
 
-### 🔭 Interests
+My projects focus on practical applications, communications systems, embedded devices, automation and self-hosted infrastructure.
 
-- 📻 **Amateur Radio** — APRS, SDR, digital modes and radio communications
-- 🔌 **Electronics & IoT** — Microcontrollers, embedded systems and hardware integration
-- ⚙️ **Industry & IIoT** — Industrial automation, instrumentation, PLCs and communications
-- 💻 **Software Development** — Python, MicroPython, APIs and automation
-- 🐧 **Systems & Networking** — Linux, Docker, networking, VPNs and self-hosted services
+---
 
-### 🛠️ Technologies & Tools
+### Areas of Interest
+
+- **Amateur Radio:** APRS, SDR, digital communications and radio systems.
+- **Electronics & Embedded Systems:** Microcontrollers, sensors, IoT and hardware integration.
+- **Software Development:** Python, MicroPython, APIs and automation tools.
+- **Systems & Networking:** Linux, Docker, TCP/IP, VPNs and self-hosted services.
+- **Industrial Technology:** PLCs, instrumentation, industrial communications and IIoT.
+
+### Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
-### 📊 GitHub Statistics
+---
+
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EB1TR&show_icons=true&theme=react&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EB1TR&layout=compact&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EB1TR&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EB1TR&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
-### 📈 GitHub Activity
+### Contribution Activity
 
-[![EB1TR's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EB1TR&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🌐 Find me online
-
-[![Website](https://img.shields.io/badge/Website-eb1tr.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.eb1tr.com)
-[![QRZ](https://img.shields.io/badge/QRZ-EB1TR-green?style=for-the-badge)](https://www.qrz.com/db/EB1TR)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EB1TR&theme=github-dark&hide_border=true" alt="GitHub Contribution Activity"/>
+</p>
 
 ---
 
-<p align="center">
-  <i>Always experimenting, building and learning.</i>
-  <br/>
-  <b>73 de EB1TR! 📡</b>
-</p>
+### Links
+
+[![Website](https://img.shields.io/badge/Website-eb1tr.com-30363D?style=flat-square)](https://www.eb1tr.com)
+[![QRZ](https://img.shields.io/badge/QRZ-EB1TR-30363D?style=flat-square)](https://www.qrz.com/db/EB1TR)
