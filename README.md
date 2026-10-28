@@ -38,12 +38,6 @@ My projects focus on practical applications, communications systems, embedded de
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EB1TR&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
-### Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EB1TR&theme=github-dark&hide_border=true" alt="GitHub Contribution Activity"/>
-</p>
-
 ---
 
 ### Links
